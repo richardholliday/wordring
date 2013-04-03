@@ -1,0 +1,650 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ms",
+				"msb-internal"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 810,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 13,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"syntax x",
+				"Set Syntax: XML"
+			]
+		],
+		"width": 498.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Projects/angular-seed/scripts/web-server.js",
+		"/C/Projects/wordring/app/partials/partial1.html",
+		"/C/Projects/angular-seed/app/index.html",
+		"/C/Projects/wordring/index.html",
+		"/c/projects/wordring/.git/COMMIT_EDITMSG",
+		"/c/projects/wordring/.deployment",
+		"/C/Projects/wordring/.gitignore",
+		"/C/Projects/bootstrap/css/bootstrap.css",
+		"/c/Projects/wordring/.git/COMMIT_EDITMSG",
+		"/C/Users/rhhollid/.gitconfig",
+		"/C/Projects/angular-phonecat/app/phones/phones.json",
+		"/C/projects/angular-phonecat/app/css/bootstrap.css",
+		"/C/Users/rhhollid/Desktop/Justin - InterviewTask/InterviewTask - Solution - Angular.html",
+		"/C/Users/rhhollid/Desktop/Justin - InterviewTask/Scripts/MyCtrl.js",
+		"/C/projects/angular-phonecat/app/lib/angular/angular.js",
+		"/C/Users/rhhollid/Documents/WindowsPowershell/Microsoft.PowerShell_profile.ps1",
+		"/C/projects/t.txt",
+		"/C/Users/rhhollid/AppData/Roaming/Sublime Text 2/Packages/AdvancedNewFile/AdvancedNewFile.sublime-settings",
+		"/C/Users/rhhollid/AppData/Roaming/Sublime Text 2/Packages/User/AdvancedNewFile.sublime-settings",
+		"/C/Users/rhhollid/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/Users/rhhollid/Scripts/MyCtrl.js",
+		"/C/Projects/StudentInfo/OnlineCoreWeb/SIS/Course/ClassDetailModelAdapter.cs",
+		"/C/Users/rhhollid/Downloads/angular.js",
+		"/F/#Interview Stuff/OnlineCoreWeb-AM-Preferences/PracticeSizing.aspx.cs",
+		"/C/Users/rhhollid/Desktop/Chris J - Interview Task/menus.html",
+		"/C/Users/rhhollid/Desktop/Justin - InterviewTask/scripts/mocks.js",
+		"/C/Users/rhhollid/Desktop/Justin - InterviewTask/InterviewTask.html",
+		"/C/Users/rhhollid/AppData/Roaming/Sublime Text 2/Packages/User/View In Browser.sublime-settings",
+		"/C/Users/rhhollid/AppData/Roaming/Sublime Text 2/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/Users/rhhollid/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/rhhollid/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Sustaining View Students Trace.sql",
+		"/C/Users/rhhollid/Desktop/Interview Task/Interview Task/index.html",
+		"/C/Projects/Trunk/Databases/RenaissanceServer/Schema Objects/Schemas/dbo/Programmability/Stored Procedures/RPM/sis_gClassEnrolledStudentsList.proc.sql",
+		"/C/Projects/Trunk/Databases/RenaissanceServer/Schema Objects/Schemas/dbo/Programmability/Stored Procedures/RPM/sis_gUnenrolledStudentsInClass.proc.sql",
+		"/C/Users/rhhollid/Desktop/Justin - InterviewTask/scripts/jquery.mockjax.js",
+		"/C/Users/rhhollid/Desktop/InterviewInfoForCanada/OnlineCoreWeb-AM-Preferences/PracticeSizing.aspx.cs",
+		"/C/Projects/Trunk/Databases/RenaissanceServer/Schema Objects/Schemas/dbo/Programmability/Stored Procedures/RPM/sis_gStudentSearchList.proc.sql",
+		"/C/Projects/Trunk/Databases/RenaissanceServer/Schema Objects/Schemas/dbo/Programmability/Stored Procedures/RPM/sis_gUnenrolledStudentsInSchool.proc.sql",
+		"/C/Projects/Trunk/CORE/Framework/Core/Database/BaseDbDataReader.cs",
+		"/C/Users/rhhollid/Desktop/InterviewTask/InterviewTask/InterviewTask.html",
+		"/C/Users/rhhollid/Desktop/Interview Task/Interview Task/style.css",
+		"/C/Projects/#SQL Scripts/PWRESET.bat",
+		"/C/Projects/Trunk/OnlineCoreWeb/Public/RPM/Login/Login.aspx",
+		"/C/Projects/Trunk/OnlineCoreWeb/SIS/Student/SelectStudent.aspx",
+		"/C/Projects/Trunk/OnlineCoreWeb/SIS/Student/ViewStudent.aspx",
+		"/C/Projects/Trunk/Utilities/RPRT_DB_Upgrader/SLSCapacityScript/DevCapacityConvert.sql",
+		"/C/Projects/Trunk/Databases/RenaissanceServer/Schema Objects/Schemas/dbo/Programmability/Stored Procedures/RPM/rl_iSchoolSubscription.proc.sql",
+		"/C/Projects/Trunk/Databases/RenaissanceServer/Schema Objects/Schemas/dbo/Programmability/Stored Procedures/RPM/sis_gStudentEnrollment.proc.sql",
+		"/C/Projects/Trunk/Services/LicensingService/Renlearn.LicensingService/Renlearn.LicensingService.csproj",
+		"/C/Projects/ClassSetupWTs/Renlearn.RP.targets",
+		"/C/Projects/ClassSetupWTs/OnlineCoreWeb/CustomReports.csproj",
+		"/C/Projects/KoreanI18n/ReleaseNotes/KoreanI18n/KoreanI18n.xml",
+		"/C/Projects/Trunk/OnlineCoreWeb/SIS/I18NSettings.resx",
+		"/C/Projects/Trunk/OnlineCoreWeb/SIS/I18NSettings.ko-KR.resx",
+		"/C/Projects/Trunk/Databases/Deploy/RenaissanceServer.sql",
+		"/C/Windows/Microsoft.NET/Framework/v4.0.30319/Config/machine.config",
+		"/C/Projects/Trunk/ReleaseNotes/RealTime.xml",
+		"/C/phantom bolts.txt",
+		"/C/Projects/KoreanI18n/ReleaseNotes/KoreanLocalization/KoreanLocalization.xml",
+		"/C/Projects/KoreanI18n/ReleaseNotes/BranchTemplate.xml",
+		"/C/Projects/KoreanI18n/ReleaseNotes/RealTime.xml",
+		"/C/Users/rhhollid/Desktop/DTS Notes.txt",
+		"/C/Users/rhhollid/Desktop/HTML 5 Notes.txt",
+		"/C/Users/rhhollid/Desktop/SRS Metrics.sql",
+		"/C/Projects/#SQL Scripts/NameGenerator.sql",
+		"/C/Projects/Trunk/OnlineCoreWeb/Web.config",
+		"/C/Projects/Trunk/Databases/RenaissanceServer/Schema Objects/Schemas/dbo/Programmability/Stored Procedures/STAR/ra_uStudentQuizSession.proc.sql",
+		"/C/Projects/Trunk/Databases/RenaissanceServer/Schema Objects/Schemas/dbo/Programmability/Stored Procedures/HC/hc_uRegistrations.proc.sql",
+		"/C/Projects/Trunk/Databases/RenaissanceServer/Schema Objects/Schemas/dbo/Programmability/Stored Procedures/HC/hc_gSchoolRegistrations.proc.sql",
+		"/C/Projects/SLS Test Client/Renlearn.LicensingService.TestClient.exe.config",
+		"/C/Projects/ClassSetupWTs/OnlineCoreWeb/SIS/Course/ClassDetailModelAdapter.cs",
+		"/C/Users/rhhollid/Desktop/HomeConnectRegistrations.sql",
+		"/C/Projects/Trunk/Deployment/BuildPatch.ps1",
+		"/C/Projects/Trunk/OnlineCoreWeb/AR/SuccessfulReader/ActivateSchools.aspx.cs",
+		"/C/Projects/Trunk/Services/LicensingService/Renlearn.LicensingService.TestClient/bin/Debug/Renlearn.LicensingService.TestClient.exe.config",
+		"/C/Projects/Trunk/OnlineCoreWeb/HomeConnect/Login.aspx",
+		"/C/Projects/Trunk/OnlineCoreWeb/HomeConnect/Login.aspx.cs",
+		"/C/Projects/Trunk/BuildAll.sln",
+		"/C/Projects/Trunk/DTS/PostDeployment/DotNet4Conversion/1_UpdateMachineConfig.psm1",
+		"/C/Projects/AdService/Trunk/Renlearn.AdService/Renlearn.AdService.csproj",
+		"/C/Users/rhhollid/AppData/Local/Temp/Temp1_jquery-ui-1.10.1.custom.zip/jquery-ui-1.10.1.custom/index.html",
+		"/C/Users/rhhollid/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/CRX3NFUH/NameGenerator.sql",
+		"/C/Users/rhhollid/AppData/Local/Temp/Temp1_jquery-ui-1.10.1.custom.zip/jquery-ui-1.10.1.custom/css/ui-darkness/jquery-ui-1.10.1.custom.css",
+		"/C/Projects/Instrumentation/InstrumentationSetup/StudentSearchTracking/Setup StudentSearchTracking Configuration.ps1",
+		"/C/Projects/Instrumentation/InstrumentationSetup/StudentSearchTracking/StudentSearchTracking.Table.sql",
+		"/C/Projects/RptReduct/ReleaseNotes/RptReduct/RptReduct.xml",
+		"/C/Users/rhhollid/Desktop/Cisco Config Web Site.html",
+		"/C/Users/rhhollid/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/CRX3NFUH/JavascriptFunctionCodeReviewFlaws.txt",
+		"/C/Projects/RptReduct/OnlineCoreWeb/dev.config",
+		"/C/Projects/Trunk/OnlineCoreWeb/SIS/Course/EditClass.aspx",
+		"/C/Projects/Trunk/OnlineCoreWeb/SIS/Course/EditClass.aspx.cs",
+		"/C/Users/rhhollid/Desktop/menutests/menus.html",
+		"/C/Users/rhhollid/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/CRX3NFUH/JavascriptFunctionCodeReview.txt",
+		"/C/Projects/Trunk/Databases/RenaissanceServer/Schema Objects/Schemas/dbo/Programmability/Stored Procedures/RPM/sis_gFindSchoolStudentsList.proc.sql",
+		"/C/Users/rhhollid/AppData/Local/Microsoft/Windows/Temporary Internet Files/RawFile.htm",
+		"/C/Projects/Trunk/Databases/RenaissanceServer/Schema Objects/Schemas/dbo/Programmability/Stored Procedures/RPM/sis_gFindTeacherStudentsList.proc.sql",
+		"/C/Projects/Trunk/Databases/RenaissanceServer/Schema Objects/Schemas/dbo/Views/sis_vStudentGradeByYear.view.sql",
+		"/C/Projects/RptReduct/Build.ps1",
+		"/C/Projects/Instrumentation/Deployment/InstallQueues.ps1",
+		"/C/Users/rhhollid/Desktop/I13n Scripts/StudentSearchTracking.Table.sql",
+		"/C/Users/rhhollid/Desktop/I13n Scripts/Setup StudentSearchTracking Configuration.ps1",
+		"/C/Users/rhhollid/Desktop/REMOVE SMHS From Visible Applications - DefaultConfigurationItems.sql",
+		"/C/Projects/Instrumentation/SolutionsToBuild.txt",
+		"/C/Projects/Instrumentation/InstrumentationSetup/GPChartUsageTracking/StarGPChartUsageTracking.Table.sql",
+		"/C/Users/rhhollid/Desktop/rails.txt",
+		"/C/Chocolatey/lib/rdportalsetup.1.0.2/tools/chocolateyInstall.ps1",
+		"/C/Projects/RptReduct/Services/LicensingService/Renlearn.LicensingService.WASHost/Web.config",
+		"/C/Projects/RptReduct/Services/LicensingService/Renlearn.LicensingService.Client/app.config",
+		"/C/Projects/Instrumentation/InstrumentationSetup/LongitudinalSchoolLevelRpt/Setup Longitudinal Configuration.ps1",
+		"/C/Projects/Instrumentation/InstrumentationSetup/LongitudinalSchoolLevelRpt/Longitudinal.Table.sql",
+		"/C/Projects/Instrumentation/Deployment/DeployInstrumentationService.ps1",
+		"/C/Projects/Instrumentation/Deployment/FilesToInclude.txt",
+		"/C/Projects/RptReduct/OnlineCoreWeb/SIS/SISStrings.resx",
+		"/C/Projects/RptReduct/Databases/RenaissanceServer/RenaissanceServer.dbproj",
+		"/C/Users/rhhollid/Desktop/PWRESET.bit",
+		"/C/Users/rhhollid/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/7Y606FO2/RenaissanceServer.sql",
+		"/C/Projects/Trunk/Services/LicensingService/Deployment/Web.config",
+		"//wrpwi/eng_main/Prod/UI_Peer_Review/PaulWu/2013-01-25-StudentInfo/ViewStudent.aspx.cs",
+		"/C/Users/rhhollid/Desktop/DataEditingFix/ManageCourses.aspx.cs",
+		"/C/Projects/RptReduct/OnlineCoreWeb/SIS/Course/ManageCourses.aspx.cs",
+		"/C/Projects/RptReduct/DeveloperSetup/Win7FirstTimeSetup.ps1",
+		"/C/Projects/RptReduct/DeveloperSetup/Modules/UpdateConfigServiceEndpoint.psm1",
+		"/C/Projects/RptReduct/DeveloperSetup/Modules/ModifyMachineConfig.psm1",
+		"/C/Projects/Trunk/OnlineCoreWeb/SIS/Course/ViewCourse.aspx.cs",
+		"/C/Projects/Trunk/OnlineCoreWeb/SIS/Course/ManageCourses.aspx.cs",
+		"/C/Projects/Trunk/CORE/Framework/Core/Web/UI/WebControls/PasswordBox.cs",
+		"/C/Projects/F5NodeWindowsService/F5NodeWindowsService.InstallLog"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Projects\\Trunk\\",
+			"C:\\Projects\\Trunk\\*.sql",
+			"C:\\Projects\\Trunk",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ValidateData",
+			"Validate_Data",
+			"<tr",
+			"support",
+			"BranchNameHere",
+			"ra_studentQuizSession",
+			"hc_Reg",
+			"hx_Reg",
+			"INSERT INTO hc_Reg",
+			"GetSchoolRows",
+			"lnkSupport",
+			"SET CONCAT_NULL_YIELDS_NULL OFF",
+			"table",
+			"RLIServiceAuthenticationBehavior",
+			"RLIServiceAuthenticationBehaviorExtension",
+			"chat",
+			"pupil",
+			">>",
+			"who",
+			"JobServiceClientBinding",
+			"RPID",
+			"dirtyAware",
+			"trans",
+			"BranchNameHere",
+			"Commit",
+			"SR.StudentProgressMonitoring",
+			"F5Redirect.aspx",
+			"f5",
+			"rl_KillLongRunningSPIDs",
+			"sm_SSGP2PR",
+			"group",
+			"class",
+			"type",
+			"gradwe",
+			"date",
+			"remove",
+			"appsettings",
+			"assessment",
+			"RLIMatch",
+			"identifierservice",
+			"classid",
+			"RLIClientAuthenticationBehavior",
+			"jobservice"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"KoreanI18n",
+			"StudentInfo"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/index.html",
+					"settings":
+					{
+						"buffer_size": 810,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": ".gitignore",
+					"settings":
+					{
+						"buffer_size": 13,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13,
+								13
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"",
+				"app/partials/partial1.html"
+			],
+			[
+				"filters",
+				"app/js/filters.js"
+			],
+			[
+				"phone",
+				"app/partials/phone-detail.html"
+			],
+			[
+				"app",
+				"app/js/app.js"
+			],
+			[
+				"phones",
+				"app/phones/phones.json"
+			],
+			[
+				"controllers",
+				"app/js/controllers.js"
+			],
+			[
+				"classdetail",
+				"OnlineCoreWeb/SIS/Course/ClassDetailModelAdapter.cs"
+			],
+			[
+				"dbstudentenroll",
+				"CORE/Framework/SIS/Database/Objects/DBStudentEnrollment.cs"
+			],
+			[
+				"viewstudent.aspx.cs",
+				"OnlineCoreWeb/SIS/Student/ViewStudent.aspx.cs"
+			],
+			[
+				"viewstudent",
+				"OnlineCoreWeb/SIS/Student/ViewStudent.aspx"
+			],
+			[
+				"viewstudentmodel",
+				"OnlineCoreWeb/SIS/Business/Objects/ViewStudentModelAdaptor.cs"
+			],
+			[
+				"sis_gunenrolled",
+				"Databases/RenaissanceServer/Schema Objects/Schemas/dbo/Programmability/Stored Procedures/RPM/sis_gUnenrolledStudentsInSchool.proc.sql"
+			],
+			[
+				"sis_gstudentsearchlist",
+				"Databases/RenaissanceServer/Schema Objects/Schemas/dbo/Programmability/Stored Procedures/RPM/sis_gStudentSearchList.proc.sql"
+			],
+			[
+				"sis_gunenrolledstudentsinclass",
+				"Databases/RenaissanceServer/Schema Objects/Schemas/dbo/Programmability/Stored Procedures/RPM/sis_gUnenrolledStudentsInClass.proc.sql"
+			],
+			[
+				"sis_gclassenrolledstudentslist",
+				"Databases/RenaissanceServer/Schema Objects/Schemas/dbo/Programmability/Stored Procedures/RPM/sis_gClassEnrolledStudentsList.proc.sql"
+			],
+			[
+				"basedbdatare",
+				"CORE/Framework/Core/Database/BaseDbDataReader.cs"
+			],
+			[
+				"login.aspx",
+				"OnlineCoreWeb/Public/RPM/Login/Login.aspx"
+			],
+			[
+				"selectstudent",
+				"OnlineCoreWeb/SIS/Student/SelectStudent.aspx"
+			],
+			[
+				"rl_ischo",
+				"Databases/RenaissanceServer/Schema Objects/Schemas/dbo/Programmability/Stored Procedures/RPM/rl_iSchoolSubscription.proc.sql"
+			],
+			[
+				"devca",
+				"Utilities/RPRT_DB_Upgrader/SLSCapacityScript/DevCapacityConvert.sql"
+			],
+			[
+				"sis_gstudentenrollment",
+				"Databases/RenaissanceServer/Schema Objects/Schemas/dbo/Programmability/Stored Procedures/RPM/sis_gStudentEnrollment.proc.sql"
+			],
+			[
+				"i18nsettings",
+				"OnlineCoreWeb/SIS/I18NSettings.ko-KR.resx"
+			],
+			[
+				"ra_ustudentquizsession",
+				"Databases/RenaissanceServer/Schema Objects/Schemas/dbo/Programmability/Stored Procedures/STAR/ra_uStudentQuizSession.proc.sql"
+			],
+			[
+				"web.config",
+				"OnlineCoreWeb/Web.config"
+			],
+			[
+				"hc_u",
+				"Databases/RenaissanceServer/Schema Objects/Schemas/dbo/Programmability/Stored Procedures/HC/hc_uRegistrations.proc.sql"
+			],
+			[
+				"hc_gschoolre",
+				"Databases/RenaissanceServer/Schema Objects/Schemas/dbo/Programmability/Stored Procedures/HC/hc_gSchoolRegistrations.proc.sql"
+			],
+			[
+				"activatesch",
+				"OnlineCoreWeb/AR/SuccessfulReader/ActivateSchools.aspx.cs"
+			],
+			[
+				"login.aspx.cs",
+				"OnlineCoreWeb/HomeConnect/Login.aspx.cs"
+			],
+			[
+				"releasenotes/",
+				"ReleaseNotes/RealTime.xml"
+			],
+			[
+				"sis_gclassenrolled",
+				"Databases/RenaissanceServer/Schema Objects/Schemas/dbo/Programmability/Stored Procedures/RPM/sis_gClassEnrolledStudentsList.proc.sql"
+			],
+			[
+				"editclass.as",
+				"OnlineCoreWeb/SIS/Course/EditClass.aspx.cs"
+			],
+			[
+				"editclass",
+				"OnlineCoreWeb/SIS/Course/EditClass.aspx"
+			],
+			[
+				"sis_gfindschoolstudentslist",
+				"Databases/RenaissanceServer/Schema Objects/Schemas/dbo/Programmability/Stored Procedures/RPM/sis_gFindSchoolStudentsList.proc.sql"
+			],
+			[
+				"sis_vstudentgr",
+				"Databases/RenaissanceServer/Schema Objects/Schemas/dbo/Views/sis_vStudentGradeByYear.view.sql"
+			],
+			[
+				"viewcourse",
+				"OnlineCoreWeb/SIS/Course/ViewCourse.aspx.cs"
+			],
+			[
+				"managecourse",
+				"OnlineCoreWeb/SIS/Course/ManageCourses.aspx.cs"
+			],
+			[
+				"teamteacher",
+				"OnlineCoreWeb/SIS/Course/AddRemoveTeamTeachers.aspx"
+			],
+			[
+				"viewcourse.aspx.de",
+				"OnlineCoreWeb/SIS/Course/ViewCourse.aspx.designer.cs"
+			],
+			[
+				"viewco",
+				"Trunk/OnlineCoreWeb/SIS/Course/ViewCourse.aspx.cs"
+			],
+			[
+				"passwordbox",
+				"Trunk/CORE/Framework/Core/Web/UI/WebControls/PasswordBox.cs"
+			],
+			[
+				"addmodel",
+				"Trunk/OnlineCoreWeb/SIS/Business/Objects/AddModel.cs"
+			],
+			[
+				"editclass.aspx.cs",
+				"Trunk/OnlineCoreWeb/SIS/Course/EditClass.aspx.cs"
+			],
+			[
+				"addclassm",
+				"Trunk/OnlineCoreWeb/SIS/Business/Objects/AddClassModel.cs"
+			],
+			[
+				"addclasscon",
+				"Trunk/OnlineCoreWeb/SIS/Controllers/AddClassController.cs"
+			],
+			[
+				"sr_testrec",
+				"Databases/RenaissanceServer/Schema Objects/Schemas/dbo/Programmability/Stored Procedures/SR/sr_TestRecordReport.proc.sql"
+			],
+			[
+				"srs_test",
+				"Databases/RenaissanceServer/Schema Objects/Schemas/dbo/Programmability/Stored Procedures/SRS/srs_TestRecordReport.sql"
+			],
+			[
+				"rl_ucreate",
+				"Databases/RenaissanceServer/Schema Objects/Schemas/dbo/Programmability/Stored Procedures/RPM/rl_uCreateSubscriptionAlert.proc.sql"
+			],
+			[
+				"am_greportsocass",
+				"AccMath/Tests/Reports/StatusOfTheClass/am_gReportSOCAssignmentsPrintedTests.cs"
+			],
+			[
+				"build",
+				"Build.ps1"
+			],
+			[
+				"runbuil",
+				"RunBuild.ps1"
+			],
+			[
+				"srsstudent",
+				"OnlineCoreWeb/SRS/Controls/SRSStudentTaskControl.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Projects/wordring/wordring.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
