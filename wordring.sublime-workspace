@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"direc",
+				"directive"
+			],
+			[
+				"word",
+				"wordService"
+			],
+			[
 				"ms",
 				"msb-internal"
 			]
@@ -15,7 +23,47 @@
 			"file": "app/index.html",
 			"settings":
 			{
-				"buffer_size": 810,
+				"buffer_size": 783,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/app.js",
+			"settings":
+			{
+				"buffer_size": 399,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/web.config",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/controllers/controllers.js",
+			"settings":
+			{
+				"buffer_size": 300,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/services/services.js",
+			"settings":
+			{
+				"buffer_size": 284,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/partials/partial1.html",
+			"settings":
+			{
+				"buffer_size": 84,
 				"line_ending": "Windows"
 			}
 		}
@@ -64,12 +112,14 @@
 	},
 	"file_history":
 	[
+		"/c/projects/wordring/.git/COMMIT_EDITMSG",
+		"/C/Projects/wordring/app/filters/filters.js",
+		"/C/Projects/wordring/app/directives/directives.js",
 		"/c/projects/jquerymodal/index.htm",
 		"/C/Projects/wordring/app/index.html",
 		"/C/projects/ClassSetupDoubleSave/dev.config",
 		"/C/Projects/wordring/.gitignore",
 		"/C/Projects/wordring/index.html",
-		"/c/projects/wordring/.git/COMMIT_EDITMSG",
 		"/C/Projects/angular-seed/scripts/web-server.js",
 		"/C/Projects/wordring/app/partials/partial1.html",
 		"/C/Projects/angular-seed/app/index.html",
@@ -189,9 +239,7 @@
 		"/C/Users/rhhollid/Desktop/DataEditingFix/ManageCourses.aspx.cs",
 		"/C/Projects/RptReduct/OnlineCoreWeb/SIS/Course/ManageCourses.aspx.cs",
 		"/C/Projects/RptReduct/DeveloperSetup/Win7FirstTimeSetup.ps1",
-		"/C/Projects/RptReduct/DeveloperSetup/Modules/UpdateConfigServiceEndpoint.psm1",
-		"/C/Projects/RptReduct/DeveloperSetup/Modules/ModifyMachineConfig.psm1",
-		"/C/Projects/Trunk/OnlineCoreWeb/SIS/Course/ViewCourse.aspx.cs"
+		"/C/Projects/RptReduct/DeveloperSetup/Modules/UpdateConfigServiceEndpoint.psm1"
 	],
 	"find":
 	{
@@ -275,6 +323,7 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -282,15 +331,15 @@
 					"file": "app/index.html",
 					"settings":
 					{
-						"buffer_size": 810,
+						"buffer_size": 783,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								810,
-								810
+								783,
+								783
 							]
 						],
 						"settings":
@@ -298,6 +347,136 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/app.js",
+					"settings":
+					{
+						"buffer_size": 399,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								399,
+								399
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/web.config",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/controllers/controllers.js",
+					"settings":
+					{
+						"buffer_size": 300,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								300,
+								300
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/services/services.js",
+					"settings":
+					{
+						"buffer_size": 284,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								252,
+								252
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/partials/partial1.html",
+					"settings":
+					{
+						"buffer_size": 84,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
