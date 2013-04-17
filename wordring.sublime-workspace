@@ -12,26 +12,10 @@
 	"buffers":
 	[
 		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 0,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "app/index.html",
 			"settings":
 			{
 				"buffer_size": 810,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": ".gitignore",
-			"settings":
-			{
-				"buffer_size": 13,
 				"line_ending": "Windows"
 			}
 		}
@@ -80,13 +64,16 @@
 	},
 	"file_history":
 	[
+		"/c/projects/jquerymodal/index.htm",
+		"/C/Projects/wordring/app/index.html",
+		"/C/projects/ClassSetupDoubleSave/dev.config",
+		"/C/Projects/wordring/.gitignore",
+		"/C/Projects/wordring/index.html",
+		"/c/projects/wordring/.git/COMMIT_EDITMSG",
 		"/C/Projects/angular-seed/scripts/web-server.js",
 		"/C/Projects/wordring/app/partials/partial1.html",
 		"/C/Projects/angular-seed/app/index.html",
-		"/C/Projects/wordring/index.html",
-		"/c/projects/wordring/.git/COMMIT_EDITMSG",
 		"/c/projects/wordring/.deployment",
-		"/C/Projects/wordring/.gitignore",
 		"/C/Projects/bootstrap/css/bootstrap.css",
 		"/c/Projects/wordring/.git/COMMIT_EDITMSG",
 		"/C/Users/rhhollid/.gitconfig",
@@ -204,10 +191,7 @@
 		"/C/Projects/RptReduct/DeveloperSetup/Win7FirstTimeSetup.ps1",
 		"/C/Projects/RptReduct/DeveloperSetup/Modules/UpdateConfigServiceEndpoint.psm1",
 		"/C/Projects/RptReduct/DeveloperSetup/Modules/ModifyMachineConfig.psm1",
-		"/C/Projects/Trunk/OnlineCoreWeb/SIS/Course/ViewCourse.aspx.cs",
-		"/C/Projects/Trunk/OnlineCoreWeb/SIS/Course/ManageCourses.aspx.cs",
-		"/C/Projects/Trunk/CORE/Framework/Core/Web/UI/WebControls/PasswordBox.cs",
-		"/C/Projects/F5NodeWindowsService/F5NodeWindowsService.InstallLog"
+		"/C/Projects/Trunk/OnlineCoreWeb/SIS/Course/ViewCourse.aspx.cs"
 	],
 	"find":
 	{
@@ -291,37 +275,10 @@
 	"groups":
 	[
 		{
-			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.html",
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "app/index.html",
 					"settings":
 					{
@@ -332,8 +289,8 @@
 						"selection":
 						[
 							[
-								204,
-								204
+								810,
+								810
 							]
 						],
 						"settings":
@@ -341,32 +298,6 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": ".gitignore",
-					"settings":
-					{
-						"buffer_size": 13,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								13,
-								13
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -636,7 +567,7 @@
 		[
 			[
 				"",
-				"/C/Projects/wordring/wordring.sublime-project"
+				"/C/Users/rhhollid/Documents/RPHosted-Trunk.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -644,7 +575,7 @@
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
+	"side_bar_visible": true,
 	"side_bar_width": 150.0,
 	"status_bar_visible": true
 }
